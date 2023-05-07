@@ -1,2 +1,2 @@
-# moduleManagement
-Simple example of how to use module export and import
+# es6modules
+Demo using export and import
